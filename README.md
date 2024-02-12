@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lulmer
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Diffusion Models
 - 💞️ I’m looking to collaborate on useful projects
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/louisulmer/)
