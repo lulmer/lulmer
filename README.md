@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lulmer
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning State Space Models 
+- 🌱 I’m currently working on State Space Models 
 - 💞️ I’m looking to collaborate on useful projects
 
 <div id="badges">
