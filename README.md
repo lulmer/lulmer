@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @lulmer
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Diffusion Models
+- 🌱 I’m currently learning State Space Models 
 - 💞️ I’m looking to collaborate on useful projects
-- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/louisulmer/)
 
-<!---
-lulmer/lulmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/louisulmer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+![vis](https://github-readme-streak-stats.herokuapp.com/?user=lulmer)
